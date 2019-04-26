@@ -1,11 +1,12 @@
 # awesome-simd
 
-A curated list of awesome SIMD frameworks, libraries and software
+A curated list of awesome SIMD frameworks, libraries and software.
 
 # Parsing 
 
-- [simdjson](https://github.com/lemire/simdjson)
-- [SIMDCompressionAndIntersection](https://github.com/lemire/SIMDCompressionAndIntersection)
+* [simdjson](https://github.com/lemire/simdjson) - C++: Parsing gigabytes of JSON per second
+* [simdcomp](https://github.com/lemire/SIMDcomp) - C: A simple library for compressing lists of integers using binary packing
+* [SIMDCompressionAndIntersection](https://github.com/lemire/SIMDCompressionAndIntersection)
 
 # Hashing 
 
@@ -14,7 +15,7 @@ A curated list of awesome SIMD frameworks, libraries and software
 
 # Image processing
 
-- [Simd](https://github.com/ermig1979/Simd) 
+* [Simd](https://github.com/ermig1979/Simd) 
 
 # Blogs
 
