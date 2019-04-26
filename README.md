@@ -2,23 +2,34 @@
 
 A curated list of awesome SIMD frameworks, libraries and software.
 
-# Parsing 
+This list showcases projects that have achieved 10x performance improvements using [SIMD](https://en.wikipedia.org/wiki/SIMD) (Single Instruction Multiple Data) instructions. In general this should lead to execution speeds of GBs per second on modern CPUs for that task at hand.
+
+## Parsing
 
 * [simdjson](https://github.com/lemire/simdjson) - C++: Parsing gigabytes of JSON per second
 * [simdcomp](https://github.com/lemire/SIMDcomp) - C: A simple library for compressing lists of integers using binary packing
-* [SIMDCompressionAndIntersection](https://github.com/lemire/SIMDCompressionAndIntersection)
+* [SIMDCompressionAndIntersection](https://github.com/lemire/SIMDCompressionAndIntersection) - C++: A library to compress and intersect sorted lists of integers using SIMD instructions
+* [Hyperscan](https://github.com/intel/hyperscan) - C++: High-performance regular expression matching library
 
-# Hashing 
+## Hashing
 
 - [highwayhash](https://github.com/minio/highwayhash)
 - [sha256-simd](https://github.com/minio/sha256-simd)
 
-# Image processing
+## Image processing
 
 * [Simd](https://github.com/ermig1979/Simd) 
 
-# Blogs
+## Blogs
 
-# Tools 
+* [Daniel Lemire](https://lemire.me/blog/)
+* [Geoff Langdale](https://branchfree.org/)
 
-* [c2goasm](https://github.com/minio/c2goasm)
+## Tools
+
+* [avo](https://github.com/mmcloughlin/avo) - Go: Generate x86 Assembly with Go
+* [c2goasm](https://github.com/minio/c2goasm) - Go: C to Go Assembly
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
