@@ -45,6 +45,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 ## Links
 
 * [Agner Fog](https://www.agner.org/optimize/) - Software optimization resources
+* [Felix Cloutiet](https://www.felixcloutier.com/x86/index.html) - x86 and amd64 instruction reference
 * [Compiler Explorer](https://go.godbolt.org/) - Run compilers interactively from the browser and interact with the assembly
 * [awesome-asm](https://github.com/MorgaJoyce/awesome-asm) - A curated list of awesome Assembler
 
