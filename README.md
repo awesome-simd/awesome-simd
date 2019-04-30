@@ -60,6 +60,10 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [Asm-Due](https://github.com/HJLebbink/asm-dude) - VS extension for assembly syntax highlighting and code completion
 * [Intrinsics-Dude](https://github.com/HJLebbink/intrinsics-dude) - VS extension for compiler instrinsics in C/C++
 
+## AVX-512
+
+* [x86/x64 SIMD Instructions (AVX512)](https://www.officedaytime.com/simd512e/simd.html) - AVX-512 overview
+* [alexcrichton](https://gist.github.com/alexcrichton/3281adb58af7f465cebee49759ae3164) - AVX-512 overview
 
 ## License
 
