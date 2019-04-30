@@ -46,16 +46,19 @@ This list showcases projects that have achieved 10x performance improvements usi
 ## Links
 
 * [Agner Fog](https://www.agner.org/optimize/) - Software optimization resources
+* [uops.info](http://uops.info/index.html) - Latency, throughput, and port usage information
 * [Felix Cloutier](https://www.felixcloutier.com/x86/index.html) - x86 and amd64 instruction reference
 * [Compiler Explorer](https://go.godbolt.org/) - Run compilers interactively from the browser and interact with the assembly
 * [awesome-asm](https://github.com/MorgaJoyce/awesome-asm) - A curated list of awesome Assembler
 * [awesome-llvm](https://github.com/HongxuChen/awesome-llvm) - Curated list of awesome LLVM related docs, tools, and other resources
+
 
 ## Tools
 
 * [avo](https://github.com/mmcloughlin/avo) - Go: Generate x86 Assembly with Go
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) - Python: x86-64 assembler embedded in Python
 * [c2goasm](https://github.com/minio/c2goasm) - Go: C to Go Assembly
+* [LLVM MCA](https://llvm.org/docs/CommandGuide/llvm-mca.html) - LLVM Machine Code Analyzer
 * [xsimd](https://github.com/QuantStack/xsimd) - C++: Wrappers for SIMD intrinsics and math implementations (SSE, AVX, NEON, AVX512)
 * [Asm-Due](https://github.com/HJLebbink/asm-dude) - VS extension for assembly syntax highlighting and code completion
 * [Intrinsics-Dude](https://github.com/HJLebbink/intrinsics-dude) - VS extension for compiler instrinsics in C/C++
@@ -63,6 +66,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 ## AVX-512
 
 * [x86/x64 SIMD Instructions (AVX512)](https://www.officedaytime.com/simd512e/simd.html) - AVX-512 overview
+* [Golang's AVX512](https://github.com/golang/go/wiki/AVX512) - Go 1.11 introduction of AVX-512 support
 * [alexcrichton](https://gist.github.com/alexcrichton/3281adb58af7f465cebee49759ae3164) - AVX-512 overview
 
 ## License
