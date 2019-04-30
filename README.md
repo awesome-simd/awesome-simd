@@ -11,7 +11,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [simdcomp](https://github.com/lemire/SIMDcomp) - C: A simple library for compressing lists of integers using binary packing
 * [SIMDCompressionAndIntersection](https://github.com/lemire/SIMDCompressionAndIntersection) - C++: A library to compress and intersect sorted lists of integers using SIMD instructions
 * [Hyperscan](https://github.com/intel/hyperscan) - C++: High-performance regular expression matching library
-* [](https://github.com/WojciechMula/toys) - C: Repository for string algorithms, snippets, toy programs, etc.
+* [Various string algo's](https://github.com/WojciechMula/toys) - C: Repository for string algorithms, snippets, toy programs, etc.
 
 ## Erasure Coding and Hashing
 
@@ -35,6 +35,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 
 * [SIMD-Visualiser](https://github.com/piotte13/SIMD-Visualiser) - Javascript: Graphically visualize SIMD code
 * [faster](https://github.com/AdamNiederer/faster) - Rust: SIMD for humans
+* [Vectorized Emulation](https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html) - Accelerated taint tracking at 2 trillion instructions per second
 
 ## Blogs
 
@@ -45,9 +46,10 @@ This list showcases projects that have achieved 10x performance improvements usi
 ## Links
 
 * [Agner Fog](https://www.agner.org/optimize/) - Software optimization resources
-* [Felix Cloutiet](https://www.felixcloutier.com/x86/index.html) - x86 and amd64 instruction reference
+* [Felix Cloutier](https://www.felixcloutier.com/x86/index.html) - x86 and amd64 instruction reference
 * [Compiler Explorer](https://go.godbolt.org/) - Run compilers interactively from the browser and interact with the assembly
 * [awesome-asm](https://github.com/MorgaJoyce/awesome-asm) - A curated list of awesome Assembler
+* [awesome-llvm](https://github.com/HongxuChen/awesome-llvm) - Curated list of awesome LLVM related docs, tools, and other resources
 
 ## Tools
 
