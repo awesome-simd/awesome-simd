@@ -12,6 +12,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [SIMDCompressionAndIntersection](https://github.com/lemire/SIMDCompressionAndIntersection) - C++: A library to compress and intersect sorted lists of integers using SIMD instructions
 * [Hyperscan](https://github.com/intel/hyperscan) - C++: High-performance regular expression matching library
 * [Various string algo's](https://github.com/WojciechMula/toys) - C: Repository for string algorithms, snippets, toy programs, etc.
+* [sse-popcount](https://github.com/WojciechMula/sse-popcount) - SIMD (SSE) population count
 
 ## Erasure Coding and Hashing
 
@@ -51,7 +52,10 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [Compiler Explorer](https://go.godbolt.org/) - Run compilers interactively from the browser and interact with the assembly
 * [awesome-asm](https://github.com/MorgaJoyce/awesome-asm) - A curated list of awesome Assembler
 * [awesome-llvm](https://github.com/HongxuChen/awesome-llvm) - Curated list of awesome LLVM related docs, tools, and other resources
-
+* [Intel Manual vol 1 (HTML)](http://xem.github.io/minix86/manual/intel-x86-and-64-manual-vol1/o_7281d5ea06a5b67a.html)
+* [Intel Manual vol 2 (HTML)](http://xem.github.io/minix86/manual/intel-x86-and-64-manual-vol2/o_b5573232dd8f1481.html)
+* [Intel Manual vol 2 (HTML)](http://xem.github.io/minix86/manual/intel-x86-and-64-manual-vol3/o_fe12b1e2a880e0ce.html)
+* [x86 documentation](https://github.com/xem/minix86) - x86 documentation
 
 ## Tools
 
