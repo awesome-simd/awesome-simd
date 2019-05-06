@@ -59,6 +59,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 
 ## Tools
 
+* [Online (dis-)assembler](http://shell-storm.org/online/Online-Assembler-and-Disassembler/) - Online Assembler and Disassembler
 * [avo](https://github.com/mmcloughlin/avo) - Go: Generate x86 Assembly with Go
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) - Python: x86-64 assembler embedded in Python
 * [c2goasm](https://github.com/minio/c2goasm) - Go: C to Go Assembly
