@@ -59,14 +59,19 @@ This list showcases projects that have achieved 10x performance improvements usi
 
 ## Tools
 
-* [Online (dis-)assembler](http://shell-storm.org/online/Online-Assembler-and-Disassembler/) - Online Assembler and Disassembler
 * [avo](https://github.com/mmcloughlin/avo) - Go: Generate x86 Assembly with Go
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) - Python: x86-64 assembler embedded in Python
 * [c2goasm](https://github.com/minio/c2goasm) - Go: C to Go Assembly
 * [LLVM MCA](https://llvm.org/docs/CommandGuide/llvm-mca.html) - LLVM Machine Code Analyzer
 * [xsimd](https://github.com/QuantStack/xsimd) - C++: Wrappers for SIMD intrinsics and math implementations (SSE, AVX, NEON, AVX512)
+* [Intel SDE debugging](https://software.intel.com/en-us/articles/debugging-applications-with-intel-sde#DEBUG-AVX512) - Debugging with AVX-512
 * [Asm-Due](https://github.com/HJLebbink/asm-dude) - VS extension for assembly syntax highlighting and code completion
 * [Intrinsics-Dude](https://github.com/HJLebbink/intrinsics-dude) - VS extension for compiler instrinsics in C/C++
+
+## Online tools
+
+* [Online (dis-)assembler](http://shell-storm.org/online/Online-Assembler-and-Disassembler/) - Online assembler and disassembler
+* [ODA](https://onlinedisassembler.com/odaweb/) - Online disassembler (disassembler.io)
 
 ## AVX-512
 
