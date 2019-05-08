@@ -52,6 +52,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [Compiler Explorer](https://go.godbolt.org/) - Run compilers interactively from the browser and interact with the assembly
 * [awesome-asm](https://github.com/MorgaJoyce/awesome-asm) - A curated list of awesome Assembler
 * [awesome-llvm](https://github.com/HongxuChen/awesome-llvm) - Curated list of awesome LLVM related docs, tools, and other resources
+* [awesome-decompilation](https://github.com/nforest/awesome-decompilation) - Curated list of awesome decompilation resources and projects.
 * [Intel Manual vol 1 (HTML)](http://xem.github.io/minix86/manual/intel-x86-and-64-manual-vol1/o_7281d5ea06a5b67a.html)
 * [Intel Manual vol 2 (HTML)](http://xem.github.io/minix86/manual/intel-x86-and-64-manual-vol2/o_b5573232dd8f1481.html)
 * [Intel Manual vol 3 (HTML)](http://xem.github.io/minix86/manual/intel-x86-and-64-manual-vol3/o_fe12b1e2a880e0ce.html)
