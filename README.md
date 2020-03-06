@@ -7,6 +7,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 ## Parsing
 
 * [simdjson](https://github.com/lemire/simdjson) - C++: Parsing gigabytes of JSON per second
+* [simdjson-go](https://github.com/minio/simdjson-go) - Go: Parsing gigabytes of JSON per second
 * [dictionary](https://github.com/lemire/dictionary) - C++: High-performance dictionary coding
 * [simdcomp](https://github.com/lemire/SIMDcomp) - C: A simple library for compressing lists of integers using binary packing
 * [SIMDCompressionAndIntersection](https://github.com/lemire/SIMDCompressionAndIntersection) - C++: A library to compress and intersect sorted lists of integers using SIMD instructions
@@ -35,6 +36,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 ## Cool
 
 * [SIMD-Visualiser](https://github.com/piotte13/SIMD-Visualiser) - Javascript: Graphically visualize SIMD code
+* [Visual ARM emulator](https://salmanarif.bitbucket.io/visual/index.html) - VisUAL: a highly visual ARM emulator
 * [faster](https://github.com/AdamNiederer/faster) - Rust: SIMD for humans
 * [Vectorized Emulation](https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html) - Accelerated taint tracking at 2 trillion instructions per second
 
@@ -57,6 +59,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [Intel Manual vol 2 (HTML)](http://xem.github.io/minix86/manual/intel-x86-and-64-manual-vol2/o_b5573232dd8f1481.html)
 * [Intel Manual vol 3 (HTML)](http://xem.github.io/minix86/manual/intel-x86-and-64-manual-vol3/o_fe12b1e2a880e0ce.html)
 * [x86 documentation](https://github.com/xem/minix86) - x86 documentation
+* [Go assembly reference](https://quasilyte.dev/blog/post/go-asm-complementary-reference/) - Go assembly language complementary reference
 
 ## Tools
 
@@ -66,7 +69,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [LLVM MCA](https://llvm.org/docs/CommandGuide/llvm-mca.html) - LLVM Machine Code Analyzer
 * [xsimd](https://github.com/QuantStack/xsimd) - C++: Wrappers for SIMD intrinsics and math implementations (SSE, AVX, NEON, AVX512)
 * [Intel SDE debugging](https://software.intel.com/en-us/articles/debugging-applications-with-intel-sde#DEBUG-AVX512) - Debugging with AVX-512
-* [Asm-Due](https://github.com/HJLebbink/asm-dude) - VS extension for assembly syntax highlighting and code completion
+* [Asm-Dude](https://github.com/HJLebbink/asm-dude) - VS extension for assembly syntax highlighting and code completion
 * [Intrinsics-Dude](https://github.com/HJLebbink/intrinsics-dude) - VS extension for compiler instrinsics in C/C++
 
 ## Online tools
@@ -78,7 +81,9 @@ This list showcases projects that have achieved 10x performance improvements usi
 
 * [x86/x64 SIMD Instructions (AVX512)](https://www.officedaytime.com/simd512e/simd.html) - AVX-512 overview
 * [Golang's AVX512](https://github.com/golang/go/wiki/AVX512) - Go 1.11 introduction of AVX-512 support
+* [Golang AVX512 test data](https://github.com/golang/go/tree/master/src/cmd/asm/internal/asm/testdata/avx512enc) - Golang AVX-512 test data instructions
 * [alexcrichton](https://gist.github.com/alexcrichton/3281adb58af7f465cebee49759ae3164) - AVX-512 overview
+* [Colfax: Capabilities of Intel AVX-512](https://colfaxresearch.com/skl-avx512/) - Capabilities of AVX-512
 
 ## License
 
