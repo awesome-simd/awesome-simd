@@ -81,10 +81,14 @@ This list showcases projects that have achieved 10x performance improvements usi
 
 * [x86/x64 SIMD Instructions (AVX512)](https://www.officedaytime.com/simd512e/simd.html) - AVX-512 overview
 * [Golang's AVX512](https://github.com/golang/go/wiki/AVX512) - Go 1.11 introduction of AVX-512 support
-* [Golang AVX512 test data](https://github.com/golang/go/tree/master/src/cmd/asm/internal/asm/testdata/avx512enc) - Golang AVX-512 test data instructions
+* [Golang AVX512 test data](https://github.com/golang/go/tree/master/src/cmd/asm/internal/asm/testdata/avx512enc) - Golang AVX-512 test instructions
 * [alexcrichton](https://gist.github.com/alexcrichton/3281adb58af7f465cebee49759ae3164) - AVX-512 overview
 * [Colfax: Capabilities of Intel AVX-512](https://colfaxresearch.com/skl-avx512/) - Capabilities of AVX-512
 
+## ARM64 NEON
+
+* [Golang's ARM64 NEON support](https://golang.org/pkg/cmd/internal/obj/arm64/) - Intro to arm64 assembler for Golang
+* [Golang ARM64 test data](https://github.com/golang/go/blob/master/src/cmd/asm/internal/asm/testdata/arm64enc.s) - Golang ARM64 (incl. NEON) test instructions
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
