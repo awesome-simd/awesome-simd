@@ -33,6 +33,9 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [Pillow-SIMD](https://github.com/uploadcare/pillow-simd) - Python: SIMD version of PIL (Python Imaging Library)
 * [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - C++: Library for Computer Vision and Machine Learning (ARM only)
 
+## Data Structures
+* [bitmap](https://github.com/kelindar/bitmap) - Go: Dense, zero-allocation, SIMD-enabled bitmap/bitset
+
 ## Cool
 
 * [SIMD-Visualiser](https://github.com/piotte13/SIMD-Visualiser) - Javascript: Graphically visualize SIMD code
