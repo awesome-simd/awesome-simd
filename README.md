@@ -4,6 +4,10 @@ A curated list of awesome SIMD frameworks, libraries and software.
 
 This list showcases projects that have achieved 10x performance improvements using [SIMD](https://en.wikipedia.org/wiki/SIMD) (Single Instruction Multiple Data) instructions. In general this should lead to execution speeds of GBs per second on modern CPUs for that task at hand.
 
+## Database / Structures
+* [sneller](https://SnellerInc/sneller) - Fast SQL for JSON in Go with AVX-512: fast, simple, schemaless
+* [bitmap](https://github.com/kelindar/bitmap) - Go: Dense, zero-allocation, SIMD-enabled bitmap/bitset
+
 ## Parsing
 
 * [simdjson](https://github.com/lemire/simdjson) - C++: Parsing gigabytes of JSON per second
@@ -32,9 +36,6 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [Simd](https://github.com/ermig1979/Simd) - C++: image processing library making use of SIMD
 * [Pillow-SIMD](https://github.com/uploadcare/pillow-simd) - Python: SIMD version of PIL (Python Imaging Library)
 * [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - C++: Library for Computer Vision and Machine Learning (ARM only)
-
-## Data Structures
-* [bitmap](https://github.com/kelindar/bitmap) - Go: Dense, zero-allocation, SIMD-enabled bitmap/bitset
 
 ## Cool
 
