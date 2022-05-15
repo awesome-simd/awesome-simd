@@ -5,7 +5,7 @@ A curated list of awesome SIMD frameworks, libraries and software.
 This list showcases projects that have achieved 10x performance improvements using [SIMD](https://en.wikipedia.org/wiki/SIMD) (Single Instruction Multiple Data) instructions. In general this should lead to execution speeds of GBs per second on modern CPUs for that task at hand.
 
 ## Database / Structures
-* [sneller](https://SnellerInc/sneller) - Fast SQL for JSON in Go with AVX-512: fast, simple, schemaless
+* [sneller](https://github.com/SnellerInc/sneller) - Fast SQL for JSON in Go with AVX-512: fast, simple, schemaless
 * [bitmap](https://github.com/kelindar/bitmap) - Go: Dense, zero-allocation, SIMD-enabled bitmap/bitset
 
 ## Parsing
