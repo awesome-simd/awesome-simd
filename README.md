@@ -71,6 +71,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) - Python: x86-64 assembler embedded in Python
 * [c2goasm](https://github.com/minio/c2goasm) - Go: C to Go Assembly
 * [LLVM MCA](https://llvm.org/docs/CommandGuide/llvm-mca.html) - LLVM Machine Code Analyzer
+* [SIMDe](https://github.com/simd-everywhere/simde) - Header-only C/C++ implementations of SIMD instruction sets (SSE*, AVX{,2,512}, Neon, and more) for systems which don't natively support them.
 * [xsimd](https://github.com/QuantStack/xsimd) - C++: Wrappers for SIMD intrinsics and math implementations (SSE, AVX, NEON, AVX512)
 * [Intel SDE debugging](https://software.intel.com/en-us/articles/debugging-applications-with-intel-sde#DEBUG-AVX512) - Debugging with AVX-512
 * [Asm-Dude](https://github.com/HJLebbink/asm-dude) - VS extension for assembly syntax highlighting and code completion
@@ -93,7 +94,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 
 * [Golang's ARM64 NEON support](https://golang.org/pkg/cmd/internal/obj/arm64/) - Intro to arm64 assembler for Golang
 * [Golang ARM64 test data](https://github.com/golang/go/blob/master/src/cmd/asm/internal/asm/testdata/arm64enc.s) - Golang ARM64 (incl. NEON) test instructions
-* [simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
