@@ -24,7 +24,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [sse-popcount](https://github.com/WojciechMula/sse-popcount) - SIMD (SSE) population count
 
 ## Erasure Coding and Hashing
-
+- [xxHash](https://github.com/Cyan4973/xxHash) - C:  Extremely fast Hash algorithm, processing at RAM speed limits.
 - [Reed-Solomon](https://github.com/klauspost/reedsolomon) - Go: Erasure Coding in Go
 - [highwayhash](https://github.com/minio/highwayhash) - Go: Optimized HighwayHash implementation for Intel (over 10 GB/sec), ARM and Power9
 - [sha256-simd](https://github.com/minio/sha256-simd) - Go: Optimized SHA256 computations for Intel, ARM and Power9
