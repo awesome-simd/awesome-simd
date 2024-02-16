@@ -69,6 +69,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [Intel Manual vol 3 (HTML)](http://xem.github.io/minix86/manual/intel-x86-and-64-manual-vol3/o_fe12b1e2a880e0ce.html)
 * [x86 documentation](https://github.com/xem/minix86) - x86 documentation
 * [Go assembly reference](https://quasilyte.dev/blog/post/go-asm-complementary-reference/) - Go assembly language complementary reference
+* [Intel® Intrinsics Guide](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html) - A list of all Intel® intrinsic functions for x86.
 
 ## Tools
 
@@ -83,6 +84,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [Intel SDE debugging](https://software.intel.com/en-us/articles/debugging-applications-with-intel-sde#DEBUG-AVX512) - Debugging with AVX-512
 * [Asm-Dude](https://github.com/HJLebbink/asm-dude) - VS extension for assembly syntax highlighting and code completion
 * [Intrinsics-Dude](https://github.com/HJLebbink/intrinsics-dude) - VS extension for compiler instrinsics in C/C++
+* [Intel® Implicit SPMD Program Compiler](https://ispc.github.io/) - An LLVM compiler for a C like language, with C linkage, that generates very good SIMD instructions for a wide range of platforms and ISAs.  (Windows, iOS, Linux, ARM, PS5, Xbox, SSE, AVX, AVX2, AVX-512, ARM NEON.)
 
 ## Online tools
 
