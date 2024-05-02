@@ -42,6 +42,10 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [Pillow-SIMD](https://github.com/uploadcare/pillow-simd) - Python: SIMD version of PIL (Python Imaging Library)
 * [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - C++: Library for Computer Vision and Machine Learning (ARM only)
 
+## Classes
+
+* [HPC-Class](https://scalable.uni-jena.de/opt/hpc/index.html) -  High Performance Computing (HPC) class taught at FSU Jena by the Scalable Data- and Compute-intensive Analyses lab
+
 ## Cool
 
 * [SIMD-Visualiser](https://github.com/piotte13/SIMD-Visualiser) - Javascript: Graphically visualize SIMD code
