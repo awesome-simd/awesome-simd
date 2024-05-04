@@ -108,6 +108,10 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [Golang's ARM64 NEON support](https://golang.org/pkg/cmd/internal/obj/arm64/) - Intro to arm64 assembler for Golang
 * [Golang ARM64 test data](https://github.com/golang/go/blob/master/src/cmd/asm/internal/asm/testdata/arm64enc.s) - Golang ARM64 (incl. NEON) test instructions
 
+## ARM64 SVE
+
+* [SVE overview](https://dougallj.github.io/asil/) - SVE overview
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
