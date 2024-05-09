@@ -48,6 +48,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 
 ## Cool
 
+* [CPUlator](https://cpulator.01xz.net/?sys=arm) - CPUlator Computer System Simulator (ARMv7, MIPS, RISC-V)
 * [SIMD-Visualiser](https://github.com/piotte13/SIMD-Visualiser) - Javascript: Graphically visualize SIMD code
 * [Visual ARM emulator](https://salmanarif.bitbucket.io/visual/index.html) - VisUAL: a highly visual ARM emulator
 * [faster](https://github.com/AdamNiederer/faster) - Rust: SIMD for humans
