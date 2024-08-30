@@ -113,6 +113,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 
 * [SVE overview](https://dougallj.github.io/asil/) - SVE overview
 * [ARM SVE tools](https://gitlab.com/arm-hpc/training/arm-sve-tools) - ARM SVE tools
+* [AArch64 SoC features](https://gpages.juszkiewicz.com.pl/arm-socs-table/arm-socs.html) - AArch64 SoC features
 
 ## License
 
