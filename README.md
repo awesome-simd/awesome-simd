@@ -19,7 +19,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 * [simdutf](https://github.com/simdutf/simdutf) - C++: Unicode routines (UTF8, UTF16, UTF32)
 * [Ada](https://github.com/ada-url/ada) - C++: WHATWG-compliant and fast URL parser
 * [StringZilla](https://github.com/ashvardanian/StringZilla) - C: Substring search, edit-distances, sorting, fuzzy matching, etc.
-* [Hyperscan](https://github.com/intel/hyperscan) - C++: High-performance regular expression matching library
+* [vectorscan](https://github.com/VectorCamp/vectorscan) - C++: High-performance regular expression matching library
 * [Various string algo's](https://github.com/WojciechMula/toys) - C: Repository for string algorithms, snippets, toy programs, etc.
 * [sse-popcount](https://github.com/WojciechMula/sse-popcount) - SIMD (SSE) population count
 
