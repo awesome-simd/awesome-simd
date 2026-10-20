@@ -35,6 +35,7 @@ This list showcases projects that have achieved 10x performance improvements usi
 - [mkl-dnn](https://github.com/intel/mkl-dnn) - C++: Math Kernel Library for Deep Neural Networks
 - [nnpack](https://github.com/Maratyszcza/NNPACK) - C/c++: Acceleration package for neural networks on multi-core CPUs
 - [SimSIMD](https://github.com/ashvardanian/SimSIMD) - C: Similarity measures for high-dimensional vectors
+- [NanoGEMM](https://github.com/eminsk/nanogemm) - C/Python: Minimalist ~100KB AVX2/FMA & ARM NEON matrix multiplication engine for sub-microsecond CPU inference.
 
 ## Image processing
 
